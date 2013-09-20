@@ -1,4 +1,6 @@
 TJCarInt
 ========
 
-Interface touch pour le TheJ0y CarPC
+!!Projet en développement!!
+
+Interface touch pour le TheJ0y CarPC avec controle de téléphone android.
